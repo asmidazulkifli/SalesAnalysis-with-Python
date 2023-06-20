@@ -1,6 +1,5 @@
 ## SalesAnalysis-with-Python
 
-This repository contains the code and data files accompanying the video tutorial "Solving Real-World Data Science Problems with Python Pandas!".
 The dataset includes detailed information about hundreds of thousands of electronics store purchases, such as month, product type, cost, purchase address, and more.
 
 ### Project Highlights
